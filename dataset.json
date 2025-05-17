@@ -34,9 +34,10 @@
 		"id": 3,
 		"custom": 1,
         	"name": "Your own Fork/Repository",
-		"githubusername": "",
-		"githubreponame": "",
-		"recommendedbranch":""
+		"githubusername": "edgar-grigoryan",
+		"githubreponame": "WLED",
+		"recommendedbranch":"main",
+		"recommended_esp32":"esp32dev"
      }
 	],
 	"details" :[
