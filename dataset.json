@@ -32,12 +32,11 @@
      },
 	 {
 		"id": 3,
-		"custom": 1,
-        	"name": "Your own Fork/Repository",
+		"custom": 0,
+        	"name": "Edgar Grigoryan",
 		"githubusername": "edgar-grigoryan",
 		"githubreponame": "WLED",
-		"recommendedbranch":"main",
-		"recommended_esp32":"esp32dev"
+		"recommendedbranch":"main"
      }
 	],
 	"details" :[
