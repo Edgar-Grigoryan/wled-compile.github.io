@@ -36,7 +36,9 @@
         	"name": "Edgar Grigoryan",
 		"githubusername": "edgar-grigoryan",
 		"githubreponame": "WLED",
-		"recommendedbranch":"main"
+		"recommendedbranch":"main",
+		"recommended_esp8266":"nodemcuv2",
+		"recommended_esp32":"esp32dev"
      }
 	],
 	"details" :[
